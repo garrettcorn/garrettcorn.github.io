@@ -7,7 +7,7 @@ comments: true
 ---
 ## Intro
 
-[Disqus] is a easy, simple, and convinient way of adding a comment section to a statically generated site, such as those hosted on [GitHub Pages] using [Jekyll].
+[Disqus] is a simple, easy, and convinient way of adding a comment section to a statically generated site, such as those hosted on [GitHub Pages] using [Jekyll].
 
 ## Instructions
 I ended up following the instructions at the post I will link to below. My guide will ultimely be something very similar. Until I take the time to get this blog post written, feel free to use the excellent guide below by sgeos.
