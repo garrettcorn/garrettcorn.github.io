@@ -16,10 +16,12 @@
 title: The G2C
 email: qicbm@hi2.in
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my digital home. This is my active portfolio and blog. You will find
-  a mixture of curated content about topics I am actively researching and information
-  that I would like to document / share for myself and others. Please feel free to contact
-  me via email or social media.
+  Welcome to my digital home. 
+  This is my active portfolio and blog. 
+  I will post curated content here regarding topics I am actively researching and 
+  topics that I would like to archive for future reference, or to simply share my 
+  thoughts and experiences with others.
+  Feel free to contact me via email or social media.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: garrettcorn
