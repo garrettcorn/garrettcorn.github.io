@@ -15,7 +15,7 @@ This assumes the user is using Linux, Ubuntu 18.04 to be exact, sorry Mac and Wi
 * Use pandoc to convert from LaTeX to MarkDown
   * Install pandoc `sudo apt install -y pandoc`
   * Convert a LaTeX post with something similar to `pandoc -s post.tex -o post.md`
-* Rename or give a proper name in the previous step and to the `_posts` folder
+* Rename, or give a proper name in the previous step, and add the MarkDown formatted post to the `_posts` folder
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for previous post to get an idea about how it works.
 
