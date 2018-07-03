@@ -7,10 +7,8 @@ title: About
 permalink: /about/
 ---
 
- Summary of Qualifications {#summary-of-qualifications .unnumbered}
+ Summary of Qualifications
 ==========================
-
-[2]{}
 
 -   Enjoy learning about personal finance, investing, and tax
     optimizations
@@ -41,7 +39,7 @@ permalink: /about/
 -   Experience working with the following: Go, Python, JavaScript, C++,
     Java, Docker, HTML, CSS, LaTex, Jenkins, Git
 
- Work Experience {#work-experience .unnumbered}
+ Work Experience
 ================
 
 -   Raytheon Missile Systems - DevOps and common software architecture
@@ -55,7 +53,7 @@ permalink: /about/
 
     -   Moderator (May 2014 - February 2015)
 
- Notable Projects {#notable-projects .unnumbered}
+ Notable Projects
 =================
 
 -   In Progress
@@ -75,7 +73,7 @@ permalink: /about/
     -   Automatic Plant Feeder: Raspberry pi with Apache server that
         automatically waters a plant
 
- Education {#education .unnumbered}
+ Education
 ==========
 
 -   Montana State University (August 2012 - December 2016)
@@ -86,7 +84,7 @@ permalink: /about/
 
     -   3.44 Cumulative GPA
 
- Academic Achievements {#academic-achievements .unnumbered}
+ Academic Achievements
 ======================
 
 -   Recipient of:
@@ -97,7 +95,7 @@ permalink: /about/
 
 -   Dean’s List
 
- References {#references .unnumbered}
+ References
 ===========
 
 -   References available upon request
