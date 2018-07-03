@@ -100,14 +100,4 @@ permalink: /about/
  References {#references .unnumbered}
 ===========
 
--   Patrick J. Donnelly, Ph.D
-
-    -   Postdoctoral Researcher at the University of Notre Dame
-
-    -   Departments of Computer Science & Psychology
-
-    -   Email: pdonnel4@nd.edu
-
-    -   Phone: 406.580.1414
-
--   Additional references available upon request
+-   References available upon request
