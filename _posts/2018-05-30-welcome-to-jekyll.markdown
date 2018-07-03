@@ -12,7 +12,7 @@ using Jekyll.
 ## LaTex to MarkDown Conversion 
 I'll likely do a full post with all of the steps at a later date, but for now this will have to do.
 This assumes the user is using Linux, Ubuntu 18.04 to be exact, sorry Mac and Windows, well not really but I digress.
-* Write post in LaTeX. Can use texstudio `bash sudo apt install -y texstudio`
+* Write a post in LaTeX. Can use texstudio `bash sudo apt install -y texstudio`
 * Use pandoc to convert from LaTeX to MarkDown
   * Install pandoc `sudo apt install -y pandoc`
   * Convert a LaTeX post with something similar to `pandoc -s post.tex -o post.md`
