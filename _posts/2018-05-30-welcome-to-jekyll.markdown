@@ -5,8 +5,6 @@ date:   2018-05-30 20:05:04 -0700
 categories: jekyll update
 ---
 
-Hello,
-
 This post will mainly be for personal reference, but it may help you out along the way. This post will simply
 contain information about updating, adding post, and a few other general maintenance tid bits for GitHub Pages
 using Jekyll.
