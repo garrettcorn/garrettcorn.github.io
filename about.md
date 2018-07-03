@@ -3,7 +3,7 @@ author:
 - Garrett Cornwell
 date: 02 July 2018
 layout: page
-title: About
+title: Resume
 permalink: /about/
 ---
 
