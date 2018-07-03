@@ -9,13 +9,17 @@ This post will mainly be for personal reference, but it may help you out along t
 contain information about updating, adding post, and a few other general maintenance tid bits for GitHub Pages
 using Jekyll.
 
-LaTex to MarkDown conversions. I'll likely do a full post with all of the steps at a later date, but for now this will have to do.
+## LaTex to MarkDown Conversion 
+I'll likely do a full post with all of the steps at a later date, but for now this will have to do.
 This assumes the user is using Linux, Ubuntu 18.04 to be exact, sorry Mac and Windows, well not really but I digress.
 * Write post in LaTeX. Can use texstudio `bash sudo apt install -y texstudio`
 * Use pandoc to convert from LaTeX to MarkDown
   * Install pandoc `sudo apt install -y pandoc`
   * Convert a LaTeX post with something similar to `pandoc -s post.tex -o post.md`
 * Rename, or give a proper name in the previous step, and add the MarkDown formatted post to the `_posts` folder
+
+## Useful Markdown Cheat Sheet
+[I used this link to make this link. Hopefully it works.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown-Cheatsheet")
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for previous post to get an idea about how it works.
 
