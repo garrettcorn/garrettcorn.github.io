@@ -2,8 +2,9 @@
 layout: post
 title:  "Hello World!"
 date:   2018-05-30 20:05:04 -0700
-categories: jekyll update first post setup
+categories: jekyll update
 ---
+
 Hello,
 
 This post will mainly be for personal reference, but it may help you out along the way. This post will simply
