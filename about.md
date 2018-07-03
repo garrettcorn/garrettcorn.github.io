@@ -29,9 +29,9 @@ permalink: /about/
 -   Genuinely enjoy technology and love finding new intuitive and
     creative ways to provide value
 
--   Huge advocate of reuse and open source styled environments. Love to
-    interage and build upon and improve the previous work my fellow
-    software engineers have designed
+-   Huge advocate of reuse and open source styled environments. Love 
+    to integrate, build, and improve upon the work of my fellow 
+    software engineers.
 
 -   Devoted to family values and professionalism, inside and outside of
     the workplace
